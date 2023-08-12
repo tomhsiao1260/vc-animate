@@ -1,5 +1,7 @@
 env/
+output/
 .DS_Store
+*.mp4
 
 /input/*
 !/input/.gitkeep

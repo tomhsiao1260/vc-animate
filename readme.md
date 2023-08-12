@@ -20,3 +20,7 @@ pip install -r requirements.txt
 ```
 python app.py
 ```
+
+## Note
+
+Snapshot Images: https://www.kaggle.com/datasets/yaohsiao123/vc-snapshot-1
